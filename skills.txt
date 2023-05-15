@@ -1,0 +1,7 @@
+Write Bash commands
+Git Hub and Git
+Test design techniques
+Postman
+Charles and Fiddler
+SQL basics
+Jmeter
